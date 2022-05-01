@@ -14,7 +14,8 @@ union() {
         }    
         
         translate([0,0,middleLayerHeight-hsBoardRestHeight])
-        linear_extrude(hsBoardRestHeight)
+        linear_extrude(hsBoardRestHeight)        
+        offset(printClearance)
         import("keeb/outline.dxf");
     }
     
@@ -47,7 +48,12 @@ module genTrrsHole(){
         translate([trrsPosition[0],trrsPosition[1]-1,-1])
         rotate([0,0,trrsPosition[2]])  
         linear_extrude(1)
-        square([trrsWidth, 10.3], center = true);    
+        square([trrsWidth, 10.3], center = true);
+        
+        translate([trrsPosition[0]-0.5,trrsPosition[1]+1,-1])
+        rotate([0,0,trrsPosition[2]])  
+        linear_extrude(0.5)
+        square([trrsWidth, trrsLength], center = true);
     }
 }
 

@@ -13,5 +13,6 @@ difference() {
     
     translate([0,0,topLayerHeight-plateRestHeight])
     linear_extrude(plateRestHeight)
+    offset(printClearance)
     import("keeb/outline.dxf");
 }

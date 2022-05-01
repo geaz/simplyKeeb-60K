@@ -29,7 +29,7 @@ hsBoardRestHeight =         hsBoardHeight + printClearance;
 plateHeight =               2;
 plateRestHeight =           plateHeight + printClearance;
 
-topLayerHeight =            mxDistanceToBoard - (hsBoardHeight + socketHeight - hsSocketRestHeight - hsBoardRestHeight);
+topLayerHeight =            mxDistanceToBoard + (hsBoardHeight + socketHeight - hsSocketRestHeight - hsBoardRestHeight - printClearance);
 middleLayerHeight =         3;
 bottomLayerHeight =         6;
 wallThickness =             3;
