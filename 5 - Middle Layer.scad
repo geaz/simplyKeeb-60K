@@ -20,13 +20,13 @@ union() {
     }
     
     difference() {
-        translate([0,0,-ledRestThickness])
-        linear_extrude(ledRestThickness)
+        translate([0,0,-ledRestHeight])
+        linear_extrude(ledRestHeight)
         offset(wallThickness-restInsetSize)
         import("keeb/outline.dxf");
         
-        translate([0,0,-ledRestThickness])
-        linear_extrude(ledRestThickness)
+        translate([0,0,-ledRestHeight])
+        linear_extrude(ledRestHeight)
         offset(wallThickness-restInsetSize-ledRestWidth)
         import("keeb/outline.dxf");
         

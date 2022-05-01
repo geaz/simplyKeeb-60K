@@ -35,7 +35,9 @@ bottomLayerHeight =         6;
 wallThickness =             3;
 floorHeight =               1;
 
-ledRestThickness =          1;
+bottomLayerScrewHeight =    bottomLayerHeight+middleLayerHeight-hsBoardHeight;
+
+ledRestHeight =             1;
 ledRestWidth =              10;
 
 trrsWidth =                 6.15  + printClearance;

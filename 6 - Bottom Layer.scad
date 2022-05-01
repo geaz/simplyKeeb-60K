@@ -73,7 +73,7 @@ module genProMicroHoles(){
 }
 
 module genProMicroSlot(){
-    translate([proMicroPosition[0],proMicroPosition[1],0])
+    translate([proMicroPosition[0],proMicroPosition[1]+proMicroSlotDepth,0])
     rotate([0,0,proMicroPosition[2]]){
         difference(){
             linear_extrude(bottomLayerHeight)
@@ -82,14 +82,19 @@ module genProMicroSlot(){
             translate([0,proMicroSlotThickness-(proMicroSlotDepth*1.5),proMicroSlotZOffset])
             linear_extrude(proMicroThickness)
             square([proMicroWidth, proMicroSlotDepth], center = true);
-        }   
+            
+            translate([0,proMicroSlotThickness,bottomLayerHeight-0.5])
+            rotate([45,0,0])
+            linear_extrude(proMicroSlotThickness)
+            square([proMicroWidth, proMicroSlotThickness], center = true); 
+        }        
     }
 }
 
 module genScrewHoles(){
     for(screw = screwPositions){
         translate([screw[0],screw[1],floorHeight])
-        linear_extrude(bottomLayerHeight)
+        linear_extrude(bottomLayerScrewHeight)
         circle(d = screwDiameter);
     }
 }
@@ -97,7 +102,7 @@ module genScrewHoles(){
 module genScrewPosts(){
     for(screw = screwPositions){
         translate([screw[0],screw[1],0])
-        linear_extrude(bottomLayerHeight)
+        linear_extrude(bottomLayerScrewHeight)
         circle(d = screwPostDiameter);
     }
 }
