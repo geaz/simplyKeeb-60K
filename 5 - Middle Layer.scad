@@ -47,7 +47,7 @@ module genTrrsHole(){
         translate([trrsPosition[0],trrsPosition[1]-1,-1])
         rotate([0,0,trrsPosition[2]])  
         linear_extrude(1)
-        square([trrsWidth, 8], center = true);    
+        square([trrsWidth, 10.3], center = true);    
     }
 }
 
