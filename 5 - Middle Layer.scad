@@ -1,43 +1,43 @@
 include <keeb/positions.scad>
 include <0 - Variables.scad>
-   
-union() {
-    difference() {
-        difference(){
-            linear_extrude(middleLayerHeight)
+  
+difference() {
+    union() {
+        difference() {
+            difference(){
+                linear_extrude(middleLayerHeight)
+                offset(wallThickness-restInsetSize)
+                import("keeb/outline.dxf");
+                
+                linear_extrude(middleLayerHeight)
+                offset(-restInsetSize)
+                import("keeb/outline.dxf");
+            }    
+            
+            translate([0,0,middleLayerHeight-hsBoardRestHeight])
+            linear_extrude(hsBoardRestHeight)        
+            offset(printClearance)
+            import("keeb/outline.dxf");
+        }
+        
+        difference() {
+            linear_extrude(ledRestHeight)
             offset(wallThickness-restInsetSize)
             import("keeb/outline.dxf");
             
-            linear_extrude(middleLayerHeight)
-            offset(-restInsetSize)
+            linear_extrude(ledRestHeight)
+            offset(wallThickness-restInsetSize-ledRestWidth)
             import("keeb/outline.dxf");
-        }    
-        
-        translate([0,0,middleLayerHeight-hsBoardRestHeight])
-        linear_extrude(hsBoardRestHeight)        
-        offset(printClearance)
-        import("keeb/outline.dxf");
+       }        
     }
-    
-    difference() {
-        translate([0,0,-ledRestHeight])
-        linear_extrude(ledRestHeight)
-        offset(wallThickness-restInsetSize)
-        import("keeb/outline.dxf");
-        
-        translate([0,0,-ledRestHeight])
-        linear_extrude(ledRestHeight)
-        offset(wallThickness-restInsetSize-ledRestWidth)
-        import("keeb/outline.dxf");
-        
-        genProMicroHole();
-        genTrrsHole();
-   }        
+            
+    genProMicroHole();
+    genTrrsHole();
 }
 //genTestScrewPosts();
 
 module genProMicroHole(){
-    translate([proMicroPosition[0],proMicroPosition[1]+proMicroLength,-1])
+    translate([proMicroPosition[0],proMicroPosition[1]+proMicroLength,0])
     rotate([0,0,proMicroPosition[2]])
     linear_extrude(1)
     square([usbWidth, 20], center = true);    
@@ -45,12 +45,12 @@ module genProMicroHole(){
 
 module genTrrsHole(){
     if(withTrrs){
-        translate([trrsPosition[0],trrsPosition[1]-1,-1])
+        translate([trrsPosition[0],trrsPosition[1]-1,0])
         rotate([0,0,trrsPosition[2]])  
         linear_extrude(1)
         square([trrsWidth, 10.3], center = true);
         
-        translate([trrsPosition[0]-0.5,trrsPosition[1]+1,-1])
+        translate([trrsPosition[0]-0.5,trrsPosition[1]+1,0])
         rotate([0,0,trrsPosition[2]])  
         linear_extrude(0.5)
         square([trrsWidth, trrsLength], center = true);

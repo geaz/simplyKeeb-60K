@@ -23,14 +23,14 @@ restInsetSize =             1     + printClearance;
 
 hsBoardHeight =             1.5;
 hsSocketInsetSize =         (socketSize - mxSize + printClearance)/2;
-hsSocketRestHeight =        1     + printClearance;
+hsSocketRestHeight =        1;
 hsBoardRestHeight =         hsBoardHeight + printClearance;
 
 plateHeight =               2;
 plateRestHeight =           plateHeight + printClearance;
 
-topLayerHeight =            mxDistanceToBoard + (hsBoardHeight + socketHeight - hsSocketRestHeight - hsBoardRestHeight - printClearance);
-middleLayerHeight =         3;
+topLayerHeight =            mxDistanceToBoard + (hsBoardHeight - hsSocketRestHeight + socketHeight - hsBoardHeight);
+middleLayerHeight =         4;
 bottomLayerHeight =         6;
 wallThickness =             3;
 floorHeight =               1;

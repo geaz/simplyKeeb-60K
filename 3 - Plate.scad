@@ -23,7 +23,7 @@ module genScrewHoles(){
 
 module genScrewPosts(){
     for(screw = screwPositions){
-        translate([screw[0],screw[1],-plateHeight])
+        translate([screw[0],screw[1],-(topLayerHeight-plateHeight)])
         linear_extrude(topLayerHeight-plateHeight)
         circle(d = screwPlatePostDiameter);
     }
