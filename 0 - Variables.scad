@@ -1,5 +1,6 @@
 $fn = 64;
 
+switchHoleClearance =       0.1;
 printClearance =            0.2;
 smallHolePrintClearance =   0.7;
 
@@ -51,6 +52,7 @@ proMicroThickness =         2     + printClearance;
 proMicroSlotDepth =         1.5;
 proMicroSlotZOffset =       2;
 proMicroSlotThickness =     3;
+proMicroScrewDiameter =     2.5   + printClearance;
 
 usbWidth =                  10    + printClearance;
 usbHeight =                 3     + printClearance;

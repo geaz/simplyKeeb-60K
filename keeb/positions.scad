@@ -11,6 +11,15 @@ screwPositions = [
     [60.7,-41.5]
 ];
 
+bendPreventions = [
+    [61, -22.3],
+    [32, -41.5],
+    [89, -41.5],
+    [32, -60.5],
+    [89, -60.5],
+    [61, -79.9],
+];
+
 // x, y, rotation
 proMicroPosition = [40,-36.2,0];
 trrsPosition = [-12,-95.7,15];

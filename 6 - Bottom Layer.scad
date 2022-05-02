@@ -68,7 +68,7 @@ module genProMicroHoles(){
 
         translate([0,proMicroLength+proMicroSlotDepth,proMicroSlotZOffset])
         linear_extrude(proMicroThickness)
-        square([proMicroWidth, proMicroSlotDepth], center = true);    
+        square([proMicroWidth, proMicroSlotDepth], center = true); 
     }
 }
 
@@ -76,17 +76,13 @@ module genProMicroSlot(){
     translate([proMicroPosition[0],proMicroPosition[1]+proMicroSlotDepth,0])
     rotate([0,0,proMicroPosition[2]]){
         difference(){
-            linear_extrude(bottomLayerHeight)
-            square([proMicroWidth/2, proMicroSlotThickness], center = true);
+            translate([0,-4.5-proMicroSlotThickness-printClearance+proMicroSlotDepth,floorHeight])
+            linear_extrude(2+floorHeight)
+            square([proMicroWidth/2, 6], center = true);
             
-            translate([0,proMicroSlotThickness-(proMicroSlotDepth*1.5),proMicroSlotZOffset])
-            linear_extrude(proMicroThickness)
-            square([proMicroWidth, proMicroSlotDepth], center = true);
-            
-            translate([0,proMicroSlotThickness,bottomLayerHeight-0.5])
-            rotate([45,0,0])
-            linear_extrude(proMicroSlotThickness)
-            square([proMicroWidth, proMicroSlotThickness], center = true); 
+            translate([0,-4.5-proMicroSlotThickness-printClearance+proMicroSlotDepth,floorHeight])
+            linear_extrude(2+floorHeight)
+            circle(d = proMicroScrewDiameter);
         }        
     }
 }
