@@ -8,13 +8,13 @@ difference(){
             import("keeb/outline.dxf");
 
             linear_extrude(hsBoardHeight)
-            offset(r = -hsSocketInsetSize)
+            offset(-hsSocketInsetSize)
             import("keeb/outline.dxf");
         }
         
         translate([0,0,hsBoardHeight - hsSocketRestHeight])
         linear_extrude(hsSocketRestHeight)
-        offset(r = -hsSocketInsetSize)
+        offset(-hsSocketInsetSize)
         import("keeb/plate.dxf");
 
         linear_extrude(hsBoardHeight - hsSocketRestHeight)
@@ -28,6 +28,6 @@ module genScrewHoles(){
     for(screw = screwPositions){
         translate([screw[0],screw[1],0])
         linear_extrude(hsBoardHeight)
-        circle(d = screwDiameter);
+        circle(d = screwHoleDiameter);
     }
 }

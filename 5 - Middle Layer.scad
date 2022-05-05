@@ -26,7 +26,7 @@ difference() {
             import("keeb/outline.dxf");
             
             linear_extrude(ledRestHeight)
-            offset(wallThickness-restInsetSize-ledRestWidth)
+            offset(-ledRestWidth-restInsetSize)
             import("keeb/outline.dxf");
        }        
     }
@@ -39,21 +39,21 @@ difference() {
 module genProMicroHole(){
     translate([proMicroPosition[0],proMicroPosition[1]+proMicroLength,0])
     rotate([0,0,proMicroPosition[2]])
+    linear_extrude(0.5)
+    square([usbWidth, 20], center = true);
+   
+    translate([proMicroPosition[0],proMicroPosition[1]+proMicroLength-9.2,0])
+    rotate([0,0,proMicroPosition[2]])
     linear_extrude(1)
-    square([usbWidth, 20], center = true);    
+    square([usbWidth, 20], center = true); 
 }
 
 module genTrrsHole(){
     if(withTrrs){
-        translate([trrsPosition[0],trrsPosition[1]-1,0])
+        translate([trrsPosition[0]+2,trrsPosition[1]-7.85,0])
         rotate([0,0,trrsPosition[2]])  
         linear_extrude(1)
-        square([trrsWidth, 10.3], center = true);
-        
-        translate([trrsPosition[0]-0.5,trrsPosition[1]+1,0])
-        rotate([0,0,trrsPosition[2]])  
-        linear_extrude(0.5)
-        square([trrsWidth, trrsLength], center = true);
+        square([trrsWidth*2, trrsLength*2], center = true);
     }
 }
 

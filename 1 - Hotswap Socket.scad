@@ -6,7 +6,7 @@ module genSocket() {
     difference(){
         // Socket
         linear_extrude(socketHeight)
-        offset(r = (socketSize - mxSize)/2)
+        offset((socketSize - mxSize)/2)
         import("keeb/hole.dxf");
         
         // Wire Slots

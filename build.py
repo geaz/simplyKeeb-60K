@@ -14,7 +14,7 @@ if which("openscad") is None:
 
 switchHoleClearance = Decimal(input("Enter your switch hole clearance [0.1] : ") or "0.1")
 printClearance = Decimal(input("Enter your print clearance [0.2] : ") or "0.2")
-smallHolePrintClearance = Decimal(input("Enter your small hole print clearance (used for anything smaller than 1.5mm). [0.7] : ") or "0.7")
+smallSocketClearance = Decimal(input("Enter your small hole socket clearance (used for anything smaller than 1.5mm on the hotswap socket). [0.7] : ") or "0.7")
 
 if os.path.isdir(buildPath):
     rmtree(buildPath)
@@ -32,4 +32,4 @@ files = [
 
 for i in files:
     print("Creating {} ...".format(i["output"]))
-    os.system("openscad -q -D switchHoleClearance={} -D printClearance={} -D smallHolePrintClearance={} -o \"./{}/{}\" \"{}\"".format(switchHoleClearance, printClearance, smallHolePrintClearance, buildPath, i["output"], i["input"]))
+    os.system("openscad -q -D switchHoleClearance={} -D printClearance={} -D smallSocketClearance={} -o \"./{}/{}\" \"{}\"".format(switchHoleClearance, printClearance, smallSocketClearance, buildPath, i["output"], i["input"]))

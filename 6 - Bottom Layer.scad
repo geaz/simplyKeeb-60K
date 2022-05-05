@@ -91,7 +91,7 @@ module genScrewHoles(){
     for(screw = screwPositions){
         translate([screw[0],screw[1],floorHeight])
         linear_extrude(bottomLayerScrewHeight)
-        circle(d = screwDiameter);
+        circle(d = screwInsertDiameter);
     }
 }
 
