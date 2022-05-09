@@ -37,7 +37,7 @@ hsBoardRestHeight =         hsBoardHeight + printClearance;
 plateHeight =               2;
 plateRestHeight =           plateHeight + printClearance;
 
-topLayerHeight =            mxDistanceToBoard + (hsBoardHeight - hsSocketRestHeight + socketHeight - hsBoardHeight);
+topLayerHeight =            mxDistanceToBoard + (socketHeight - hsSocketRestHeight);
 middleLayerHeight =         4;
 bottomLayerHeight =         6.5;
 wallThickness =             3;
@@ -64,7 +64,7 @@ proMicroScrewDiameter =     2.5   + printClearance;
 usbWidth =                  10    + printClearance;
 usbHeight =                 3.5   + printClearance;
 
-screwHoleDiameter =         2.5;
+screwHoleDiameter =         3;
 screwInsertDiameter =       3.2;
-screwPlatePostDiameter =    4;
+screwPlatePostDiameter =    5;
 screwPostDiameter =         6;
