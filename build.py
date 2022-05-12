@@ -30,6 +30,11 @@ files = [
     {"input":"7 - Pro Micro Mount.scad", "output":"7 - Pro Micro Mount.stl" }
 ]
 
+with open('.build/params.txt', 'w') as f:
+    f.write("switchHoleClearance={}\n".format(switchHoleClearance))
+    f.write("printClearance={}\n".format(printClearance))
+    f.write("smallSocketClearance={}\n".format(smallSocketClearance))
+
 for i in files:
     print("Creating {} ...".format(i["output"]))
     os.system("openscad -q -D switchHoleClearance={} -D printClearance={} -D smallSocketClearance={} -o \"./{}/{}\" \"{}\"".format(switchHoleClearance, printClearance, smallSocketClearance, buildPath, i["output"], i["input"]))

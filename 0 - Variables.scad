@@ -48,7 +48,7 @@ bottomLayerScrewHeight =    bottomLayerHeight+middleLayerHeight-hsBoardHeight;
 ledRestHeight =             1;
 ledRestWidth =              10    + printClearance;
 
-trrsWidth =                 6.15  + printClearance;
+trrsWidth =                 6     + printClearance;
 trrsLength =                12.1  + printClearance;
 trrsHeight =                5     + printClearance;
 trrsSlotThickness =         1;
