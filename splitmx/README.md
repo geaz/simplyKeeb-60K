@@ -27,6 +27,6 @@ This folder contains everything to build the **simplyKeeb S60**.
 
 ## Adapter
 
-Print all the parts from the **adapter** folder. If you want to change the cut out, you are free to edit the Fusion 360 model.
+Print all the parts from the **adapter** folder. If you want to change the cut out, you are free to edit the Fusion 360 model. Besides a modified usb type c cable, two M2 heat set inserts and two M2x5mm screws are needed.
 
 ![Adapter](images/adapter.jpg)
