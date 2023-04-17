@@ -7,15 +7,13 @@ The following variants are available at the moment:
 - [simplyKeeb S60ph](printedmx) - *A completely 3D printed hotswap split keyboard*
 - [simplyKeeb S60](splitmx) - *A pcb variant of the S60ph using a RP2040 and smd components*
 
-<figure>
-<img src="splitmx/images/cover.jpg" alt="Split" style="width:100%">
-<figcaption align = "center">simplyKeeb S60</figcaption>
-</figure>
+| ![simplyKeeb S60](splitmx/images/cover.jpg) |
+|:--:|
+| <b>simplyKeeb S60</b>|
 
-<figure>
-<img src="splitmx/images/cover-adapter.jpg" alt="Split with Adapter" style="width:100%">
-<figcaption align = "center">simplyKeeb S60 with Adapter</figcaption>
-</figure>
+| ![simplyKeeb S60  with Adapter](splitmx/images/cover-adapter.jpg) |
+|:--:|
+| <b>simplyKeeb S60  with Adapter</b>|
 
 ## Layout
 

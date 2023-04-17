@@ -2,15 +2,13 @@
 
 This folder contains everything to build the **simplyKeeb S60**.
 
-<figure>
-<img src="images/cover.jpg" alt="Split" style="width:100%">
-<figcaption align = "center">simplyKeeb S60</figcaption>
-</figure>
+| ![simplyKeeb S60](images/cover.jpg) |
+|:--:|
+| <b>simplyKeeb S60</b>|
 
-<figure>
-<img src="images/cover-adapter.jpg" alt="Split with Adapter" style="width:100%">
-<figcaption align = "center">simplyKeeb S60 with Adapter</figcaption>
-</figure>
+| ![simplyKeeb S60  with Adapter](images/cover-adapter.jpg) |
+|:--:|
+| <b>simplyKeeb S60  with Adapter</b>|
 
 ## Features
 
