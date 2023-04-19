@@ -1,0 +1,12 @@
+#pragma once
+
+#define RGBLIGHT_SLEEP
+
+#define COMBO_VARIABLE_LEN
+#define COMBO_TERM 50
+
+#define TAPPING_FORCE_HOLD
+#define TAPPING_TERM 175
+#define IGNORE_MOD_TAP_INTERRUPT
+#define PERMISSIVE_HOLD
+#define TAPPING_FORCE_HOLD

@@ -1,0 +1,4 @@
+COMB(ue, RALT(KC_Y), KC_U, KC_I)
+COMB(oe, RALT(KC_P), KC_I, KC_O)
+COMB(ae, RALT(KC_Q), KC_A, KC_S)
+COMB(ss, RALT(KC_S), KC_S, KC_D)

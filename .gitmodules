@@ -1,0 +1,3 @@
+[submodule "firmware/vial-qmk"]
+	path = firmware/vial-qmk
+	url = https://github.com/vial-kb/vial-qmk
