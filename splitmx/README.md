@@ -30,3 +30,7 @@ This folder contains everything to build the **simplyKeeb S60**.
 Print all the parts from the **adapter** folder. If you want to change the cut out, you are free to edit the Fusion 360 model. Besides a modified usb type c cable, two M2 heat set inserts and two M2x5mm screws are needed.
 
 ![Adapter](images/adapter.jpg)
+
+## Credits
+
+I used some of the great footprints from the [Keyswitch Kicad Library](https://github.com/kiswitch/kiswitch) and from [ai03](https://github.com/ai03-2725/MX_Alps_Hybrid).
