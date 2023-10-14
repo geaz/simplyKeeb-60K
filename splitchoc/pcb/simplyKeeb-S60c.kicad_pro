@@ -577,75 +577,75 @@
     ],
     [
       "8d50533b-7563-4330-b8c2-defda0ddcdc6",
-      "Six SK6812Mini-E"
+      "LEDs Row L1"
     ],
     [
       "45efd09c-13b0-45bb-b3a8-1e84cf282625",
-      "Six SK6812Mini-E1"
+      "LEDs Row L2"
     ],
     [
       "94934d19-00f6-4bf7-9430-ce1fa09db4b0",
-      "Six SK6812Mini-E2"
+      "LEDs Row L3"
     ],
     [
       "5955baa2-8f4a-48d3-bd5f-ac9f71700d66",
-      "Six SK6812Mini-E3"
+      "LEDs Row L4"
     ],
     [
       "2511670c-4cda-472b-af31-5a4caab39411",
-      "Six SK6812Mini-E4"
+      "LEDs Row L5"
     ],
     [
       "7c0c26be-3210-412c-9429-3efd732ff732",
-      "Six SK6812Mini-E5"
+      "Backlight L1"
     ],
     [
       "4f000bf6-954a-4633-b617-aec2917c52c6",
-      "Six SK6812Mini-E6"
+      "Backlight L2"
     ],
     [
       "a99cd1be-1fe0-4ec3-b946-9305b4a59401",
-      "Six SK6812Mini-E7"
+      "Backlight L3"
     ],
     [
       "de743d67-c1f2-4b03-b35a-3f0fd7f4a0ff",
-      "Four SK6812Mini-E8"
+      "Backlight L4"
     ],
     [
       "db99b11d-9b50-4f54-b8ef-d7a9df195163",
-      "Six SK6812Mini-E11"
+      "LEDs Row R5"
     ],
     [
       "035f2c50-8b57-4ef2-9ef7-14a46a94e9bc",
-      "Six SK6812Mini-E12"
+      "LEDs Row R4"
     ],
     [
       "c85fccfd-ced0-4fb1-bb8c-1cfb2300b017",
-      "Six SK6812Mini-E13"
+      "LEDs Row R3"
     ],
     [
       "b2074d1e-9286-43d7-9e1d-b43f613d42ed",
-      "Six SK6812Mini-E14"
+      "LEDs Row R2"
     ],
     [
       "e2ef36e5-4c68-4191-bd63-5023cc0900f5",
-      "Six SK6812Mini-E15"
+      "LEDs Row R1"
     ],
     [
       "583c56bf-5e61-4e86-ba8b-6755e2d91abb",
-      "Six SK6812Mini-E16"
+      "Backlight R1"
     ],
     [
       "b21a5e6f-0327-4fec-afb2-ffed8575ba8a",
-      "Six SK6812Mini-E17"
+      "Backlight R2"
     ],
     [
       "f0e2aa55-c5ae-43a0-87c1-a63ae8c29cea",
-      "Six SK6812Mini-E9"
+      "Backlight R3"
     ],
     [
       "4c57dd2e-ba9d-4920-a7b0-d41c3d5d5f4a",
-      "Four SK6812Mini-E10"
+      "Backlight R4"
     ]
   ],
   "text_variables": {}

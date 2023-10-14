@@ -2808,7 +2808,7 @@
     (property "Value" "SW_Push" (at 281.94 121.6461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 281.94 120.65 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 281.94 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 281.94 120.65 0)
@@ -2817,7 +2817,7 @@
     (pin "1" (uuid 559112c0-b7e6-4359-bded-27001d5ff333))
     (pin "2" (uuid 058d133c-0fe1-459f-96db-614cf5c18016))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW37") (unit 1)
         )
@@ -2834,7 +2834,7 @@
     (property "Value" "SW_Push" (at 219.71 174.9861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 219.71 173.99 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 219.71 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 219.71 173.99 0)
@@ -2843,7 +2843,7 @@
     (pin "1" (uuid 8370a53f-0747-48a4-b367-9220fdcd6fc5))
     (pin "2" (uuid 4125621b-699f-428b-ab54-e60663f2630f))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW20") (unit 1)
         )
@@ -2869,7 +2869,7 @@
     (pin "1" (uuid 1f9f6db8-2964-4076-a52c-5c9a31d7e728))
     (pin "2" (uuid 97292822-0af6-439b-9e19-b6e05d6d84d5))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D17") (unit 1)
         )
@@ -2886,7 +2886,7 @@
     (property "Value" "SW_Push" (at 309.88 279.1261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 309.88 278.13 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 309.88 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 309.88 278.13 0)
@@ -2895,7 +2895,7 @@
     (pin "1" (uuid 54db5a76-2c5c-424d-b4ad-20a809525a51))
     (pin "2" (uuid 0f25f747-7b3a-4de4-93e5-52b7996c1c1f))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW42") (unit 1)
         )
@@ -2921,7 +2921,7 @@
     (pin "1" (uuid a67cc146-d481-4acc-9241-944e3b564a18))
     (pin "2" (uuid 79b041c5-4f8c-4ba7-85da-38e2865b03be))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D14") (unit 1)
         )
@@ -2947,7 +2947,7 @@
     (pin "1" (uuid 1358e0be-8f55-4d66-af3e-df91ce4ba1d5))
     (pin "2" (uuid 8c7e9dff-af74-4290-87e9-f2ffbaa26bc7))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D16") (unit 1)
         )
@@ -2973,7 +2973,7 @@
     (pin "1" (uuid 08e212d2-0da6-407a-825c-85503b9cd533))
     (pin "2" (uuid ad587ce3-2214-45cc-931e-9acbd665cbb1))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D15") (unit 1)
         )
@@ -2999,7 +2999,7 @@
     (pin "1" (uuid da7e4eed-316d-481f-93cb-a62aa1e83ec8))
     (pin "2" (uuid fe5e5de9-52a5-46e5-8a20-1521048ecbb7))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D18") (unit 1)
         )
@@ -3016,7 +3016,7 @@
     (property "Value" "SW_Push" (at 189.23 103.8661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 189.23 102.87 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 189.23 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 102.87 0)
@@ -3025,7 +3025,7 @@
     (pin "1" (uuid cfcad86a-8f10-46dc-bd89-41498d636c90))
     (pin "2" (uuid b8dabdd4-5cc7-4c63-97a2-fe3aa8ada73e))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW6") (unit 1)
         )
@@ -3042,7 +3042,7 @@
     (property "Value" "SW_Push" (at 189.23 121.6461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 189.23 120.65 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 189.23 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 120.65 0)
@@ -3051,7 +3051,7 @@
     (pin "1" (uuid cbd0f384-8d94-4094-b1bf-3d8795359bb5))
     (pin "2" (uuid 25bcb64b-8fa7-49c6-89e5-629a14cad8a7))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW7") (unit 1)
         )
@@ -3077,7 +3077,7 @@
     (pin "1" (uuid 7de3062c-d4ab-4b15-9e8b-37ca71978510))
     (pin "2" (uuid 7bdde49d-4230-46f5-83a1-44bfdd21885e))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D37") (unit 1)
         )
@@ -3102,7 +3102,7 @@
     )
     (pin "1" (uuid dc554a09-b839-4190-a735-e9c7a7956e6f))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR02") (unit 1)
         )
@@ -3128,7 +3128,7 @@
     (pin "1" (uuid d9cd98d4-5bfc-4a47-922a-d299362bf1eb))
     (pin "2" (uuid f6bd331b-096e-4551-82f0-f6365b912ffd))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D19") (unit 1)
         )
@@ -3145,7 +3145,7 @@
     (property "Value" "SW_Push" (at 278.13 332.4661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 278.13 331.47 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 278.13 331.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 278.13 331.47 0)
@@ -3154,7 +3154,7 @@
     (pin "1" (uuid bce89842-a476-4910-966e-700cd7c2599b))
     (pin "2" (uuid 54297156-997d-4e5a-9333-40cc02ac0c53))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW35") (unit 1)
         )
@@ -3180,7 +3180,7 @@
     (pin "1" (uuid 6057b2c9-81ea-4546-ac42-9b036feea90c))
     (pin "2" (uuid d0e66e41-23a4-40e3-a697-d988d6ccde4a))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D20") (unit 1)
         )
@@ -3197,7 +3197,7 @@
     (property "Value" "SW_Push" (at 247.65 279.1261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 247.65 278.13 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 247.65 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.65 278.13 0)
@@ -3206,7 +3206,7 @@
     (pin "1" (uuid c7869450-3404-4c8e-893b-8ba509a035c1))
     (pin "2" (uuid 76273de8-59d6-410b-83d1-8e2e6ed5688e))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW22") (unit 1)
         )
@@ -3232,7 +3232,7 @@
     (pin "1" (uuid db5b0754-461b-4c7b-bd44-3ef6edd2a376))
     (pin "2" (uuid aff67352-86b0-4d6b-b796-28c65290e932))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D12") (unit 1)
         )
@@ -3258,7 +3258,7 @@
     (pin "1" (uuid 470d6010-1af3-47d1-8997-b1c1b27251c0))
     (pin "2" (uuid eeeea56a-ebc6-4508-b975-e8f43f9bc52a))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D1") (unit 1)
         )
@@ -3275,7 +3275,7 @@
     (property "Value" "SW_Push" (at 247.65 261.3461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 247.65 260.35 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 247.65 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.65 260.35 0)
@@ -3284,7 +3284,7 @@
     (pin "1" (uuid 524072d3-ff18-40c4-8dfc-5e25cd592bb9))
     (pin "2" (uuid fa98e6de-9ada-432b-a66b-eb95da5d69ec))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW21") (unit 1)
         )
@@ -3310,7 +3310,7 @@
     (pin "1" (uuid fd32fb47-99a8-438a-af58-ab5efda557c5))
     (pin "2" (uuid 41ab2585-1498-4c5c-84f9-8091b3cffc4e))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D10") (unit 1)
         )
@@ -3336,7 +3336,7 @@
     (pin "1" (uuid b66bad50-9ff1-4ae3-bd3c-b1499568380c))
     (pin "2" (uuid 7130f1cb-c618-4230-bacd-73ef6c705a5e))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D50") (unit 1)
         )
@@ -3353,7 +3353,7 @@
     (property "Value" "SW_Push" (at 340.36 332.4661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 340.36 331.47 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 340.36 331.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 340.36 331.47 0)
@@ -3362,7 +3362,7 @@
     (pin "1" (uuid fda37aee-04e3-4e48-931e-5cb3dc66e78c))
     (pin "2" (uuid e64cd7a3-ae2c-4527-a586-e1a9ba1f9b23))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW55") (unit 1)
         )
@@ -3388,7 +3388,7 @@
     (pin "1" (uuid e701b105-743a-4982-9d17-ecba6be91adc))
     (pin "2" (uuid 1d742241-fd4c-4f74-97ac-f8ce6ccd6b9a))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "C1") (unit 1)
         )
@@ -3414,7 +3414,7 @@
     (pin "1" (uuid 5b01417c-1555-4fff-a331-a33fcd25d362))
     (pin "2" (uuid e9694ae6-c666-453d-846a-93aa08bb14bd))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D58") (unit 1)
         )
@@ -3440,7 +3440,7 @@
     (pin "1" (uuid 97398ae4-6e9e-4f22-b8c9-d0bcfa91a80c))
     (pin "2" (uuid cbe0d532-345a-4576-a6e3-78ec22f9ca89))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D42") (unit 1)
         )
@@ -3457,7 +3457,7 @@
     (property "Value" "SW_Push" (at 369.57 279.1261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 369.57 278.13 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 369.57 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 278.13 0)
@@ -3466,7 +3466,7 @@
     (pin "1" (uuid 905e73ff-2d91-4b5b-972e-9d5305f8e44e))
     (pin "2" (uuid ee8056df-0f90-4a3c-8fc6-3cfb055bfdcd))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW57") (unit 1)
         )
@@ -3483,7 +3483,7 @@
     (property "Value" "SW_Push" (at 309.88 314.6861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 309.88 313.69 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 309.88 313.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 309.88 313.69 0)
@@ -3492,7 +3492,7 @@
     (pin "1" (uuid b5a52993-cadc-44c1-b08b-a6493327adc8))
     (pin "2" (uuid 3f86b547-14e2-4ac0-863d-96ae1a4421c7))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW44") (unit 1)
         )
@@ -3509,7 +3509,7 @@
     (property "Value" "SW_Push" (at 311.15 174.9861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-2U-Hotswap-Vertical" (at 311.15 173.99 0)
+    (property "Footprint" "simplyKeeb:Choc-2U-Hotswap-Vertical" (at 311.15 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 311.15 173.99 0)
@@ -3518,7 +3518,7 @@
     (pin "1" (uuid 8395416e-fd26-481d-81b0-63cf704969de))
     (pin "2" (uuid d950b823-ceb1-472d-9fc7-2b8886dd9128))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW50") (unit 1)
         )
@@ -3544,7 +3544,7 @@
     (pin "1" (uuid 6d15e61e-a8fb-4485-b23a-e1d6b4723721))
     (pin "2" (uuid b0fabbf7-caa2-464f-afa1-de802d7f4f81))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D8") (unit 1)
         )
@@ -3570,7 +3570,7 @@
     (pin "1" (uuid 4e98ad88-2dd4-462e-80a3-1c26045dfbf4))
     (pin "2" (uuid 4f34e121-a5f4-4120-b435-5c06b786e014))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D35") (unit 1)
         )
@@ -3587,7 +3587,7 @@
     (property "Value" "SW_Push" (at 218.44 296.9061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 218.44 295.91 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 218.44 295.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 295.91 0)
@@ -3596,7 +3596,7 @@
     (pin "1" (uuid 7275ef2b-e1a8-49b0-b4c3-5ef08bb61fb5))
     (pin "2" (uuid a4302972-1ab1-47e6-9460-76ec5d572047))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW13") (unit 1)
         )
@@ -3613,7 +3613,7 @@
     (property "Value" "SW_Push" (at 218.44 261.3461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 218.44 260.35 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 218.44 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 260.35 0)
@@ -3622,7 +3622,7 @@
     (pin "1" (uuid 6f70c3fa-0fe4-4e0e-a5ce-82372c0215f3))
     (pin "2" (uuid 811a974e-874f-4ac2-ac95-d38068e0b6bc))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW11") (unit 1)
         )
@@ -3648,7 +3648,7 @@
     (pin "1" (uuid 5414a7d8-aad3-476f-a54b-bbadf083a578))
     (pin "2" (uuid 5f1b7a67-342f-47e1-b241-4db041594e00))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D40") (unit 1)
         )
@@ -3674,7 +3674,7 @@
     (pin "1" (uuid 7f9fa68f-9349-4fd4-b9fa-d1b48e71c788))
     (pin "2" (uuid 20db6d3a-b54d-4454-b15d-a7877e40fbb4))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D24") (unit 1)
         )
@@ -3700,7 +3700,7 @@
     (pin "1" (uuid e1c2c077-a80b-4410-b018-19072e5ccc4f))
     (pin "2" (uuid adc55965-666e-43ab-8775-cb063e550a9c))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D21") (unit 1)
         )
@@ -3725,7 +3725,7 @@
     )
     (pin "1" (uuid 4981f628-5b03-4efb-b650-24f9ddca82d0))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR03") (unit 1)
         )
@@ -3751,7 +3751,7 @@
     (pin "1" (uuid d710a2f0-32f1-40b2-b111-1fbac6f73958))
     (pin "2" (uuid ea6c7072-4ec0-46c5-bc84-7f4ce1f9e085))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D6") (unit 1)
         )
@@ -3777,7 +3777,7 @@
     (pin "1" (uuid e0a008f5-3fb0-4ac6-8513-bedf8e925abe))
     (pin "2" (uuid d1c79f19-f5ab-41d4-98b0-bbc43a0a115d))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D46") (unit 1)
         )
@@ -3803,7 +3803,7 @@
     (pin "1" (uuid 71205bdd-bee8-472f-a443-3ad3a2487758))
     (pin "2" (uuid e1795bf4-beb4-4fdb-a97b-797e0bc7c290))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D27") (unit 1)
         )
@@ -3829,7 +3829,7 @@
     (pin "1" (uuid e34d860b-f4f0-49c1-b0ea-88fbebf71bfb))
     (pin "2" (uuid edd6b2a5-22be-481a-81de-2edbb2c93bf4))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D4") (unit 1)
         )
@@ -3855,7 +3855,7 @@
     (pin "1" (uuid 1740e9fa-a7d8-48b0-925a-5fe38f65d778))
     (pin "2" (uuid f920852b-dd77-477f-b38d-0a6a0a4bffc1))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D48") (unit 1)
         )
@@ -3881,7 +3881,7 @@
     (pin "1" (uuid 45acd6ee-ae19-474c-840e-9e5325715a61))
     (pin "2" (uuid 585d7447-9198-472e-8ee9-96be2dc5f6db))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D5") (unit 1)
         )
@@ -3906,7 +3906,7 @@
     )
     (pin "1" (uuid 7ed86bc3-d74e-42a6-947a-f92a0e88dabe))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR07") (unit 1)
         )
@@ -3923,7 +3923,7 @@
     (property "Value" "SW_Push" (at 340.36 296.9061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 340.36 295.91 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 340.36 295.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 340.36 295.91 0)
@@ -3932,7 +3932,7 @@
     (pin "1" (uuid c1d7395a-c379-4a50-822c-311d959a0a13))
     (pin "2" (uuid 1c4619c4-8a05-4ede-a72d-5067703fc48f))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW53") (unit 1)
         )
@@ -3949,7 +3949,7 @@
     (property "Value" "SW_Push" (at 311.15 103.8661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 311.15 102.87 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 311.15 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 311.15 102.87 0)
@@ -3958,7 +3958,7 @@
     (pin "1" (uuid 91f815aa-9a3a-4f17-b1c3-8e89a265bee9))
     (pin "2" (uuid 3eed9d9a-a16d-4e7e-967d-f5b749457253))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW46") (unit 1)
         )
@@ -3975,7 +3975,7 @@
     (property "Value" "SW_Push" (at 278.13 314.6861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 278.13 313.69 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 278.13 313.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 278.13 313.69 0)
@@ -3984,7 +3984,7 @@
     (pin "1" (uuid 39cc35bf-56a8-40ee-9a9a-5112f1d4a409))
     (pin "2" (uuid cb9f2aed-003c-4463-b1c2-c7e3e7256bf4))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW34") (unit 1)
         )
@@ -4001,7 +4001,7 @@
     (property "Value" "SW_Push" (at 369.57 314.6861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 369.57 313.69 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 369.57 313.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 313.69 0)
@@ -4010,7 +4010,7 @@
     (pin "1" (uuid baf080d8-65a1-4415-bdd7-31aa357885c4))
     (pin "2" (uuid f8ff6742-3b68-4732-9345-637162f05a8b))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW59") (unit 1)
         )
@@ -4036,7 +4036,7 @@
     (pin "1" (uuid b2419720-5ae4-44f6-94f0-d60cea127a09))
     (pin "2" (uuid 66e226e5-2bab-40d1-8eba-da90b9d6b06c))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D52") (unit 1)
         )
@@ -4062,7 +4062,7 @@
     (pin "1" (uuid 649b3a63-eacd-4ba6-a73a-bb577cd00acd))
     (pin "2" (uuid 4dcb7692-710d-472e-bd35-4a2d52dd9607))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D33") (unit 1)
         )
@@ -4088,7 +4088,7 @@
     (pin "1" (uuid 5e9aea5c-6f8e-4ee7-997d-9a847e6f387a))
     (pin "2" (uuid 83d10044-e3c0-4cba-8d3d-2bf93dd47980))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D9") (unit 1)
         )
@@ -4105,7 +4105,7 @@
     (property "Value" "SW_Push" (at 218.44 314.6861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 218.44 313.69 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 218.44 313.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 313.69 0)
@@ -4114,7 +4114,7 @@
     (pin "1" (uuid 4271cb70-2ec4-4dfa-b3bd-15276a44f5fc))
     (pin "2" (uuid 0ba6fb39-5462-4a61-a712-fafb416309bc))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW14") (unit 1)
         )
@@ -4139,7 +4139,7 @@
     )
     (pin "1" (uuid ee5106cf-0597-42ff-9252-eca2e3670881))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#FLG03") (unit 1)
         )
@@ -4156,7 +4156,7 @@
     (property "Value" "SW_Push" (at 281.94 139.4261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 281.94 138.43 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 281.94 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 281.94 138.43 0)
@@ -4165,7 +4165,7 @@
     (pin "1" (uuid 5ebb3321-c4dc-4e99-b176-be6993966242))
     (pin "2" (uuid 16416bec-a19b-49b1-b4b8-727016a97d6c))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW38") (unit 1)
         )
@@ -4182,7 +4182,7 @@
     (property "Value" "SW_Push" (at 219.71 121.6461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 219.71 120.65 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 219.71 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 219.71 120.65 0)
@@ -4191,7 +4191,7 @@
     (pin "1" (uuid e1e99a97-2d22-4c2f-ab04-e6a319a569cc))
     (pin "2" (uuid 0fee61b1-f8ea-4914-91e1-05beff473582))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW17") (unit 1)
         )
@@ -4217,7 +4217,7 @@
     (pin "1" (uuid d2a13ee2-f8ca-4483-9348-11ca0ea785e9))
     (pin "2" (uuid 87ec03f6-c5ad-47e7-b4c0-8e85ed7e9aa9))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D43") (unit 1)
         )
@@ -4243,7 +4243,7 @@
     (pin "1" (uuid 4a2565f2-67db-48d7-a1bf-4c933d13b731))
     (pin "2" (uuid e1b43cb3-26f6-4625-96f2-1b5d3f2d5807))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D53") (unit 1)
         )
@@ -4269,7 +4269,7 @@
     (pin "1" (uuid b866555f-cca1-4d36-841a-e5386e9e88a1))
     (pin "2" (uuid 86e52072-d59f-4a08-8b7d-ae48e5875b5d))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D60") (unit 1)
         )
@@ -4286,7 +4286,7 @@
     (property "Value" "SW_Push" (at 219.71 103.8661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 219.71 102.87 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 219.71 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 219.71 102.87 0)
@@ -4295,7 +4295,7 @@
     (pin "1" (uuid b4544708-4550-465a-9a9f-c275b0ca4359))
     (pin "2" (uuid 3e3fb56a-79cb-42a0-bc9b-cccd3b7d98d4))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW16") (unit 1)
         )
@@ -4320,7 +4320,7 @@
     )
     (pin "1" (uuid 77af8909-813e-4c71-8847-39bf5bd04292))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#FLG01") (unit 1)
         )
@@ -4337,7 +4337,7 @@
     (property "Value" "SW_Push" (at 311.15 121.6461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 311.15 120.65 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 311.15 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 311.15 120.65 0)
@@ -4346,7 +4346,7 @@
     (pin "1" (uuid f02cc990-169e-4aa2-9c4b-d77c79bc888a))
     (pin "2" (uuid 4327c385-6c47-4acd-b9d3-e335d51266b1))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW47") (unit 1)
         )
@@ -4372,7 +4372,7 @@
     (pin "1" (uuid 30062a9d-71e9-47f4-a10d-cef94c673b51))
     (pin "2" (uuid 8d9a3483-de07-40a3-a8e2-a4d73d8e7e0d))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D31") (unit 1)
         )
@@ -4389,7 +4389,7 @@
     (property "Value" "SW_Push" (at 247.65 296.9061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 247.65 295.91 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 247.65 295.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.65 295.91 0)
@@ -4398,7 +4398,7 @@
     (pin "1" (uuid 6bd777a9-874b-4053-92c0-8fb5f91af881))
     (pin "2" (uuid 66f58397-52c6-4dd8-bcb7-eac954232136))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW23") (unit 1)
         )
@@ -4423,7 +4423,7 @@
     )
     (pin "1" (uuid 138dcee6-6735-44ef-85d6-b8231928ec23))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR01") (unit 1)
         )
@@ -4440,7 +4440,7 @@
     (property "Value" "USB Type C" (at 90.17 118.2893 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "USB-C-SMD_TYPE-C-31-M-31" (at 90.17 149.86 0)
+    (property "Footprint" "simplyKeeb:USB-C-SMD_TYPE-C-31-M-31" (at 90.17 149.86 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 90.17 133.35 0)
@@ -4472,7 +4472,7 @@
     (pin "B7" (uuid ddb4cb1b-b41f-4453-ad2c-034db7f95db5))
     (pin "B8" (uuid 6836a1e0-414f-48e5-a50f-ae7da3c9aba8))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "USB2") (unit 1)
         )
@@ -4489,7 +4489,7 @@
     (property "Value" "SW_Push" (at 311.15 139.4261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 311.15 138.43 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 311.15 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 311.15 138.43 0)
@@ -4498,7 +4498,7 @@
     (pin "1" (uuid dc19d295-60e4-4e6b-9faa-6a9fcdda5d5b))
     (pin "2" (uuid 133330a8-fecf-497a-bbed-4a48897f7b4c))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW48") (unit 1)
         )
@@ -4515,7 +4515,7 @@
     (property "Value" "SW_Push" (at 160.02 121.6461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 160.02 120.65 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 160.02 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 120.65 0)
@@ -4524,7 +4524,7 @@
     (pin "1" (uuid 99f0d6ac-ff17-4542-b86a-f223bcf97b71))
     (pin "2" (uuid a87e5254-2d78-4645-a14c-e9a2307d77ed))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW2") (unit 1)
         )
@@ -4550,7 +4550,7 @@
     (pin "1" (uuid 5d90c57e-7d63-4e44-94e1-5370a53a13df))
     (pin "2" (uuid 371a62de-aa00-466e-a7cf-3330dea7a559))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D29") (unit 1)
         )
@@ -4567,7 +4567,7 @@
     (property "Value" "SW_Push" (at 160.02 157.2061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 160.02 156.21 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 160.02 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 156.21 0)
@@ -4576,7 +4576,7 @@
     (pin "1" (uuid 2089e40a-bc36-4da8-b94f-f363a3f3f68e))
     (pin "2" (uuid a78d6641-e24d-44c7-af44-1349d82c3523))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW4") (unit 1)
         )
@@ -4602,7 +4602,7 @@
     (pin "1" (uuid 076ba0d7-e3db-4bcb-a735-efe9eaa50deb))
     (pin "2" (uuid 6eac5dab-de2e-4289-8247-1c6a541c932b))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D36") (unit 1)
         )
@@ -4628,7 +4628,7 @@
     (pin "1" (uuid 02edf896-fcbf-4717-9580-9eca9cd313eb))
     (pin "2" (uuid f9e71533-60a6-4e9e-a5e5-4c1310cc0c60))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "R1") (unit 1)
         )
@@ -4654,7 +4654,7 @@
     (pin "1" (uuid 858389f3-3ce0-4b19-99b9-c1777b875657))
     (pin "2" (uuid 9f9d45dc-b507-4cda-8f26-1355fe249501))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "R2") (unit 1)
         )
@@ -4680,7 +4680,7 @@
     (pin "1" (uuid 60ed5e2f-e201-437b-850b-c66224a0f00e))
     (pin "2" (uuid fb86e072-3ea8-4b4d-b8c1-dde66b29668b))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D47") (unit 1)
         )
@@ -4697,7 +4697,7 @@
     (property "Value" "SW_Push" (at 218.44 279.1261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 218.44 278.13 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 218.44 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 278.13 0)
@@ -4706,7 +4706,7 @@
     (pin "1" (uuid dc1e8cdf-518b-4277-94af-369ec894ad10))
     (pin "2" (uuid af659f5d-0eb5-420e-b6b4-9ca51788da90))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW12") (unit 1)
         )
@@ -4732,7 +4732,7 @@
     (pin "1" (uuid a6f86d3d-beae-4567-96fc-cfabd8667858))
     (pin "2" (uuid 9a817273-9da2-4fb4-a18c-4ebe6b8d970a))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D30") (unit 1)
         )
@@ -4749,7 +4749,7 @@
     (property "Value" "SW_Push" (at 251.46 121.6461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 251.46 120.65 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 251.46 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 251.46 120.65 0)
@@ -4758,7 +4758,7 @@
     (pin "1" (uuid 0b4a1b72-26c0-47c4-97fe-0cec4c67e4c5))
     (pin "2" (uuid c4942a56-93d0-4ba8-967a-3d586fb56f81))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW27") (unit 1)
         )
@@ -4775,7 +4775,7 @@
     (property "Value" "SW_Push" (at 340.36 314.6861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 340.36 313.69 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 340.36 313.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 340.36 313.69 0)
@@ -4784,7 +4784,7 @@
     (pin "1" (uuid f460bde2-dad7-4e3b-918a-754a532fabee))
     (pin "2" (uuid f366319e-f1a5-41a8-9f2a-bb235e2afb11))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW54") (unit 1)
         )
@@ -4810,7 +4810,7 @@
     (pin "1" (uuid c651f05e-86f9-49f3-b10a-80fd90cf8ee5))
     (pin "2" (uuid a9819218-3698-4b89-a85f-d603cae4d1b3))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D7") (unit 1)
         )
@@ -4836,7 +4836,7 @@
     (pin "1" (uuid 2f9a2029-25ee-4ac5-a5f1-98b4faaea76c))
     (pin "2" (uuid e37ae3da-6aff-4c86-a564-7db2d196c1a4))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D56") (unit 1)
         )
@@ -4853,7 +4853,7 @@
     (property "Value" "SW_Push" (at 278.13 261.3461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 278.13 260.35 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 278.13 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 278.13 260.35 0)
@@ -4862,7 +4862,7 @@
     (pin "1" (uuid f824cbe2-15f5-4628-ba21-e9592e6e692e))
     (pin "2" (uuid 4bfe3119-4f1d-44c3-a843-62d181fd3191))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW31") (unit 1)
         )
@@ -4879,7 +4879,7 @@
     (property "Value" "PCA9555PW (IO Expander)" (at 137.16 275.7693 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL" (at 137.16 330.2 0)
+    (property "Footprint" "simplyKeeb:TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL" (at 137.16 330.2 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://lcsc.com/product-detail/I-O-Expansion_NXP_PCA9555PW-118_PCA9555PW-118_C128392.html" (at 137.16 335.28 0)
@@ -4922,7 +4922,7 @@
     (pin "8" (uuid cf7c299c-cfeb-4fa5-8989-58a9df5b1102))
     (pin "9" (uuid 3bbd28fd-7b25-451d-b9d5-82f1ba7e597b))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "U1") (unit 1)
         )
@@ -4948,7 +4948,7 @@
     (pin "1" (uuid f52bb285-6aca-425c-b296-d57aad16c340))
     (pin "2" (uuid 1f16ff3c-62d4-4cb7-b68e-74609b34ac59))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D2") (unit 1)
         )
@@ -4965,7 +4965,7 @@
     (property "Value" "SW_Push" (at 278.13 296.9061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 278.13 295.91 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 278.13 295.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 278.13 295.91 0)
@@ -4974,7 +4974,7 @@
     (pin "1" (uuid 147e3a1d-cdf6-4ba6-a907-c55d433ccd86))
     (pin "2" (uuid 95e62794-70a7-409c-9e3c-7672499f75ae))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW33") (unit 1)
         )
@@ -4991,7 +4991,7 @@
     (property "Value" "SW_Push" (at 340.36 261.3461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 340.36 260.35 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 340.36 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 340.36 260.35 0)
@@ -5000,7 +5000,7 @@
     (pin "1" (uuid afb074fb-e12b-43f0-a314-d66efe40b30f))
     (pin "2" (uuid bdccf2a1-b89e-46ed-8075-02cb95697b69))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW51") (unit 1)
         )
@@ -5017,7 +5017,7 @@
     (property "Value" "SW_Push" (at 369.57 332.4661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 369.57 331.47 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 369.57 331.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 331.47 0)
@@ -5026,7 +5026,7 @@
     (pin "1" (uuid e0deda4f-84b6-4b07-a487-6a95805f5c5d))
     (pin "2" (uuid 298f2718-bcc0-48e6-be4c-d417172cdb8d))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW60") (unit 1)
         )
@@ -5043,7 +5043,7 @@
     (property "Value" "SW_Push" (at 247.65 332.4661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1.5U-Hotswap-Vertical" (at 247.65 331.47 0)
+    (property "Footprint" "simplyKeeb:Choc-1.5U-Hotswap-Vertical" (at 247.65 331.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.65 331.47 0)
@@ -5052,7 +5052,7 @@
     (pin "1" (uuid 49bf88d8-a536-4182-8f2c-c677496d969f))
     (pin "2" (uuid 5777caff-0775-4256-ba7d-97d838c09077))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW25") (unit 1)
         )
@@ -5069,7 +5069,7 @@
     (property "Value" "SW_Push" (at 281.94 103.8661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 281.94 102.87 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 281.94 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 281.94 102.87 0)
@@ -5078,7 +5078,7 @@
     (pin "1" (uuid 80b3faad-f57c-4653-b263-bc1f3a4ed334))
     (pin "2" (uuid b9435d17-e2ca-4f4c-a394-fec356fcf7db))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW36") (unit 1)
         )
@@ -5103,7 +5103,7 @@
     )
     (pin "1" (uuid 0d975df2-ce43-48cd-814a-af1c2f15ae39))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR010") (unit 1)
         )
@@ -5128,7 +5128,7 @@
     )
     (pin "1" (uuid 2736bd85-de5f-4398-bff5-da7ed6f80c39))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#FLG04") (unit 1)
         )
@@ -5154,7 +5154,7 @@
     (pin "1" (uuid e02eed6c-831f-475c-8147-ec0bf37b5e79))
     (pin "2" (uuid a9f5f684-fd57-4aa4-a327-283d354c1391))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D28") (unit 1)
         )
@@ -5179,7 +5179,7 @@
     )
     (pin "1" (uuid 7bfc9383-0838-46fe-bf20-d39a83ebf369))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR09") (unit 1)
         )
@@ -5205,7 +5205,7 @@
     (pin "1" (uuid 259b7e5a-acb7-45db-9d5d-28ded9958052))
     (pin "2" (uuid d6a72a87-e43f-4c61-be79-b8019823f322))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D39") (unit 1)
         )
@@ -5231,7 +5231,7 @@
     (pin "1" (uuid 0af6cd93-2197-4bd9-aa49-a37abc4d9f91))
     (pin "2" (uuid 24afa2bf-ba3f-4a75-ab05-f020a6f1fa46))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D44") (unit 1)
         )
@@ -5248,7 +5248,7 @@
     (property "Value" "SW_Push" (at 251.46 174.9861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 251.46 173.99 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 251.46 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 251.46 173.99 0)
@@ -5257,7 +5257,7 @@
     (pin "1" (uuid cf31299e-d8de-4907-a4dd-d6303cdc9d43))
     (pin "2" (uuid a134c149-687a-40fd-8a1d-e907bd6a4bf1))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW30") (unit 1)
         )
@@ -5274,7 +5274,7 @@
     (property "Value" "SW_Push" (at 247.65 314.6861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 247.65 313.69 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 247.65 313.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.65 313.69 0)
@@ -5283,7 +5283,7 @@
     (pin "1" (uuid edb275b9-055e-4c7a-b5e2-b9d22afac6fc))
     (pin "2" (uuid fb58ab0c-1bfe-495a-b212-ee7e9eb207f4))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW24") (unit 1)
         )
@@ -5300,7 +5300,7 @@
     (property "Value" "SW_Push" (at 219.71 157.2061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 219.71 156.21 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 219.71 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 219.71 156.21 0)
@@ -5309,7 +5309,7 @@
     (pin "1" (uuid 3e6b586a-90dd-4e90-a36e-aa2f9d295dd5))
     (pin "2" (uuid 260623b7-abcc-4583-aa53-1b2a28c3a063))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW19") (unit 1)
         )
@@ -5335,7 +5335,7 @@
     (pin "1" (uuid 9a51b0ec-4bb2-4300-b51d-9acdf3dc7dd0))
     (pin "2" (uuid 4b90c4ef-50ea-4f09-9ce5-d5e8f0f605db))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D49") (unit 1)
         )
@@ -5352,7 +5352,7 @@
     (property "Value" "SW_Push" (at 219.71 139.4261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 219.71 138.43 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 219.71 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 219.71 138.43 0)
@@ -5361,7 +5361,7 @@
     (pin "1" (uuid 202993c7-4f47-46ca-aaf8-77697113f664))
     (pin "2" (uuid a2616786-8155-4836-94b5-6eb3273d5d81))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW18") (unit 1)
         )
@@ -5387,7 +5387,7 @@
     (pin "1" (uuid f96963d3-b994-4d27-96b8-998e91c6e535))
     (pin "2" (uuid 31ef4918-3458-4da9-b2e4-12a666cae8a9))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D51") (unit 1)
         )
@@ -5413,7 +5413,7 @@
     (pin "1" (uuid c6f8fe85-53ed-46fd-a82d-d6a8e3b91627))
     (pin "2" (uuid 7ef53466-795e-4071-b88f-eea3f1a4c447))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D13") (unit 1)
         )
@@ -5430,7 +5430,7 @@
     (property "Value" "SW_Push" (at 160.02 103.8661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 160.02 102.87 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 160.02 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 102.87 0)
@@ -5439,7 +5439,7 @@
     (pin "1" (uuid e7cae5ae-dc59-4c24-b101-415326b35f0f))
     (pin "2" (uuid 4a6756df-0956-48b1-a055-59020a5b11c2))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW1") (unit 1)
         )
@@ -5456,7 +5456,7 @@
     (property "Value" "SW_Push" (at 311.15 157.2061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 311.15 156.21 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 311.15 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 311.15 156.21 0)
@@ -5465,7 +5465,7 @@
     (pin "1" (uuid 43e2d925-9fa1-4e98-8559-14d80331b189))
     (pin "2" (uuid 62de1bf6-d18d-4307-8557-9396ef8ff514))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW49") (unit 1)
         )
@@ -5491,7 +5491,7 @@
     (pin "1" (uuid e2d4f4f6-d836-45ae-8e20-44cb39185a13))
     (pin "2" (uuid 692aaa8d-801a-4701-be7d-7d4883ece0e9))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D3") (unit 1)
         )
@@ -5508,7 +5508,7 @@
     (property "Value" "SW_Push" (at 189.23 174.9861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 189.23 173.99 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 189.23 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 173.99 0)
@@ -5517,7 +5517,7 @@
     (pin "1" (uuid 0a40b986-8162-4e6c-bcb8-dc452890434d))
     (pin "2" (uuid 24531acf-9c82-435a-bc79-9d827a76e517))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW10") (unit 1)
         )
@@ -5534,7 +5534,7 @@
     (property "Value" "SW_Push" (at 369.57 261.3461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 369.57 260.35 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 369.57 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 260.35 0)
@@ -5543,7 +5543,7 @@
     (pin "1" (uuid 178b226e-10a3-495e-947d-ece910643268))
     (pin "2" (uuid bd349185-1033-4ca1-86bc-a19524350211))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW56") (unit 1)
         )
@@ -5560,7 +5560,7 @@
     (property "Value" "SW_Push" (at 160.02 139.4261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 160.02 138.43 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 160.02 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 138.43 0)
@@ -5569,7 +5569,7 @@
     (pin "1" (uuid c3a7511d-b251-4f40-a8aa-55a348cec8fb))
     (pin "2" (uuid 29856417-41de-4dbe-aa92-6f8eb41abb6a))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW3") (unit 1)
         )
@@ -5595,7 +5595,7 @@
     (pin "1" (uuid d023caae-57be-49d3-a40c-9db8eefbdf83))
     (pin "2" (uuid 3b5079f6-605d-4d16-8b0b-129c2f81558f))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "R3") (unit 1)
         )
@@ -5621,7 +5621,7 @@
     (pin "1" (uuid cf17e41f-01d8-436d-aa52-5c76a11c4fff))
     (pin "2" (uuid 8d2bc3aa-5580-42ce-ad24-30e944dcf319))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D34") (unit 1)
         )
@@ -5647,7 +5647,7 @@
     (pin "1" (uuid fb12a6b4-5d35-479a-8562-45c169488d36))
     (pin "2" (uuid ddfc92e6-8b02-4db4-87e7-e077c57a23ac))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D38") (unit 1)
         )
@@ -5673,7 +5673,7 @@
     (pin "1" (uuid 06644d05-dbbf-40ed-a936-eb9389934431))
     (pin "2" (uuid e199ce68-ee06-413a-9efc-b586da30729b))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D41") (unit 1)
         )
@@ -5698,7 +5698,7 @@
     )
     (pin "1" (uuid d899b79d-c71e-45a3-b875-34a3f1478f65))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR04") (unit 1)
         )
@@ -5715,7 +5715,7 @@
     (property "Value" "SW_Push" (at 251.46 103.8661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 251.46 102.87 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 251.46 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 251.46 102.87 0)
@@ -5724,7 +5724,7 @@
     (pin "1" (uuid e81bd229-4b9a-42e0-9a45-7b4f5f0eada1))
     (pin "2" (uuid c80a2b8e-6e8b-41f2-a17b-70a8288fbba5))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW26") (unit 1)
         )
@@ -5749,7 +5749,7 @@
     )
     (pin "1" (uuid 6e900d78-1738-45e3-bb04-c8fec763dff0))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#FLG02") (unit 1)
         )
@@ -5766,7 +5766,7 @@
     (property "Value" "SW_Push" (at 281.94 174.9861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1.5U-Hotswap-Vertical" (at 281.94 173.99 0)
+    (property "Footprint" "simplyKeeb:Choc-1.5U-Hotswap-Vertical" (at 281.94 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 281.94 173.99 0)
@@ -5775,7 +5775,7 @@
     (pin "1" (uuid c312823b-2827-4136-a14f-7509d614f345))
     (pin "2" (uuid 9013b8db-96db-49e8-be41-8c2fb1c70f74))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW40") (unit 1)
         )
@@ -5792,7 +5792,7 @@
     (property "Value" "SW_Push" (at 218.44 332.4661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-2U-Hotswap-Vertical" (at 218.44 331.47 0)
+    (property "Footprint" "simplyKeeb:Choc-2U-Hotswap-Vertical" (at 218.44 331.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 331.47 0)
@@ -5801,7 +5801,7 @@
     (pin "1" (uuid ec4b0b5e-ab40-47f2-9f02-6903ca8fb6fd))
     (pin "2" (uuid c2407dc0-3092-4cef-8ef6-40a8bae36346))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW15") (unit 1)
         )
@@ -5826,7 +5826,7 @@
     )
     (pin "1" (uuid 69470733-2385-46d4-b52d-bf3c16709da1))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR06") (unit 1)
         )
@@ -5843,7 +5843,7 @@
     (property "Value" "SW_Push" (at 189.23 157.2061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 189.23 156.21 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 189.23 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 156.21 0)
@@ -5852,7 +5852,7 @@
     (pin "1" (uuid 43b8ab97-6a63-4d7d-8ffc-04e9a3d0842c))
     (pin "2" (uuid e55d9010-51f0-4834-9d0f-6797dcccfd6a))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW9") (unit 1)
         )
@@ -5878,7 +5878,7 @@
     (pin "1" (uuid 89e8f14e-9e10-4a03-ba22-79b3b145af78))
     (pin "2" (uuid 584950e4-a2e5-4909-ba34-8513c0747a69))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D23") (unit 1)
         )
@@ -5904,7 +5904,7 @@
     (pin "1" (uuid 9b234c12-0a12-4e8c-984a-d0310cc467ca))
     (pin "2" (uuid ddc4e117-a101-4001-bc3f-54efa5474c3c))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D59") (unit 1)
         )
@@ -5921,7 +5921,7 @@
     (property "Value" "SW_Push" (at 278.13 279.1261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 278.13 278.13 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 278.13 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 278.13 278.13 0)
@@ -5930,7 +5930,7 @@
     (pin "1" (uuid bc2ee888-697e-42eb-8cde-d4c46c137240))
     (pin "2" (uuid 3e270657-1713-4fd4-add2-bff9f4a5235f))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW32") (unit 1)
         )
@@ -5956,7 +5956,7 @@
     (pin "1" (uuid db791d3b-ff89-4218-8029-91595f818e26))
     (pin "2" (uuid b66ddb3e-e0bd-4217-84c6-ca4377e0c3e2))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D25") (unit 1)
         )
@@ -5982,7 +5982,7 @@
     (pin "1" (uuid 744a307d-537a-41e7-854a-604b06b23e0d))
     (pin "2" (uuid 49dd3d4c-f29d-44be-a526-25d486219113))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D57") (unit 1)
         )
@@ -6008,7 +6008,7 @@
     (pin "1" (uuid 1179a5d4-878d-4284-bb9b-ed2ff630de33))
     (pin "2" (uuid 37d996c5-665a-40b4-a902-bf6c6aa825af))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D11") (unit 1)
         )
@@ -6025,7 +6025,7 @@
     (property "Value" "SW_Push" (at 281.94 157.2061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 281.94 156.21 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 281.94 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 281.94 156.21 0)
@@ -6034,7 +6034,7 @@
     (pin "1" (uuid 33546f40-33e8-4e13-8640-c8742cb019a4))
     (pin "2" (uuid bfea0174-0b5f-4d82-97b0-b7dc577eabb0))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW39") (unit 1)
         )
@@ -6051,7 +6051,7 @@
     (property "Value" "SW_Push" (at 251.46 139.4261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 251.46 138.43 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 251.46 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 251.46 138.43 0)
@@ -6060,7 +6060,7 @@
     (pin "1" (uuid 8a790772-ac67-4c5c-8cca-0445c9d75e48))
     (pin "2" (uuid b96e6d91-80a2-4e83-8bb9-55c7d00eb45b))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW28") (unit 1)
         )
@@ -6086,7 +6086,7 @@
     (pin "1" (uuid 6db34e6a-2983-470a-a0fc-5ab402e456c5))
     (pin "2" (uuid 595b0b51-0c06-419b-b6e8-f62de76af2b9))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D55") (unit 1)
         )
@@ -6103,7 +6103,7 @@
     (property "Value" "SW_Push" (at 160.02 174.9861 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 160.02 173.99 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 160.02 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 173.99 0)
@@ -6112,7 +6112,7 @@
     (pin "1" (uuid 963e6348-5e97-4a50-8d0e-37eb9c0ee339))
     (pin "2" (uuid 916eb5d3-5d77-43ee-a6ac-d537561a61ef))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW5") (unit 1)
         )
@@ -6138,7 +6138,7 @@
     (pin "1" (uuid 911c2701-d952-47bd-8ca0-c6bb8eb1dcf5))
     (pin "2" (uuid 8af31a0a-3e28-4f6a-8bdd-ad300584fbec))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D54") (unit 1)
         )
@@ -6155,7 +6155,7 @@
     (property "Value" "SW_Push" (at 309.88 296.9061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 309.88 295.91 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 309.88 295.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 309.88 295.91 0)
@@ -6164,7 +6164,7 @@
     (pin "1" (uuid ae9fac4c-c4cc-4c99-acbb-2015858ddb32))
     (pin "2" (uuid 274da69e-6c09-4b8c-a319-ec5bbc20be3f))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW43") (unit 1)
         )
@@ -6181,7 +6181,7 @@
     (property "Value" "SW_Push" (at 309.88 332.4661 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 309.88 331.47 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 309.88 331.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 309.88 331.47 0)
@@ -6190,7 +6190,7 @@
     (pin "1" (uuid 0ad02922-58b0-4bc6-b30a-dadf957347e5))
     (pin "2" (uuid fff4b1ce-3cc0-4248-a11d-e63a484ebe6d))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW45") (unit 1)
         )
@@ -6207,7 +6207,7 @@
     (property "Value" "SW_Push" (at 369.57 296.9061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 369.57 295.91 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 369.57 295.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 295.91 0)
@@ -6216,7 +6216,7 @@
     (pin "1" (uuid e8534414-bbad-44ed-91a2-e60dbd678bfe))
     (pin "2" (uuid 772409f1-5457-457c-995e-7ed39b7641e4))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW58") (unit 1)
         )
@@ -6233,7 +6233,7 @@
     (property "Value" "SW_Push" (at 189.23 139.4261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 189.23 138.43 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 189.23 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 138.43 0)
@@ -6242,7 +6242,7 @@
     (pin "1" (uuid 4210e8a1-32fe-47c2-8ccd-1f58b8668be3))
     (pin "2" (uuid 2cc4e616-bb12-478b-a49a-ad89449c8f3b))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW8") (unit 1)
         )
@@ -6259,7 +6259,7 @@
     (property "Value" "SW_Push" (at 251.46 157.2061 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 251.46 156.21 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 251.46 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 251.46 156.21 0)
@@ -6268,7 +6268,7 @@
     (pin "1" (uuid e8fe1dd3-1cf4-42ba-9943-98b5926634b6))
     (pin "2" (uuid 66ca2b92-5cf2-4469-8a4d-57391a1acc74))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW29") (unit 1)
         )
@@ -6285,7 +6285,7 @@
     (property "Value" "SW_Push" (at 309.88 261.3461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 309.88 260.35 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 309.88 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 309.88 260.35 0)
@@ -6294,7 +6294,7 @@
     (pin "1" (uuid c77f6c0c-8192-42b4-b977-24b070a802de))
     (pin "2" (uuid f8bc1c3b-cff6-49c6-bee3-b75e3ed613c3))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW41") (unit 1)
         )
@@ -6320,7 +6320,7 @@
     (pin "1" (uuid 7f2a5429-ac4a-4279-9a68-00064af54b9a))
     (pin "2" (uuid 5b0b18f0-1a06-44a6-b70a-a3f073e44888))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D22") (unit 1)
         )
@@ -6346,7 +6346,7 @@
     (pin "1" (uuid ad5fbf0b-1dad-4c40-b8fb-0ec3bd66f292))
     (pin "2" (uuid ceabc1ac-3793-4d8d-816b-ce2565308be3))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D32") (unit 1)
         )
@@ -6372,7 +6372,7 @@
     (pin "1" (uuid a781f9e9-8d1d-40d0-b58e-1afc9e0491cf))
     (pin "2" (uuid de137585-f2e6-4ecd-ae7c-5efa7b168692))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D45") (unit 1)
         )
@@ -6397,7 +6397,7 @@
     )
     (pin "1" (uuid e9198090-4bb8-4818-932d-a4a8f9de3b5c))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR08") (unit 1)
         )
@@ -6414,7 +6414,7 @@
     (property "Value" "USB Type C" (at 77.47 284.6593 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "USB-C-SMD_TYPE-C-31-M-31" (at 77.47 316.23 0)
+    (property "Footprint" "simplyKeeb:USB-C-SMD_TYPE-C-31-M-31" (at 77.47 316.23 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 77.47 299.72 0)
@@ -6446,7 +6446,7 @@
     (pin "B7" (uuid 838a0b22-ac77-4268-ae17-aad2ba3cbc86))
     (pin "B8" (uuid 76b0599d-301c-4ec6-b0f4-b212e76bafea))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "USB1") (unit 1)
         )
@@ -6471,7 +6471,7 @@
     )
     (pin "1" (uuid 9f5635c5-7c78-4f98-ab4e-0cec627aeeb5))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "#PWR05") (unit 1)
         )
@@ -6497,7 +6497,7 @@
     (pin "1" (uuid 4253ad36-2f72-48d0-b72a-03f60fbd43a3))
     (pin "2" (uuid 27713c83-56f1-46d6-96b9-a1de5f38493d))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "D26") (unit 1)
         )
@@ -6514,7 +6514,7 @@
     (property "Value" "SW_Push" (at 340.36 279.1261 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "simplyKeeb:MXOnly-1U-Hotswap" (at 340.36 278.13 0)
+    (property "Footprint" "simplyKeeb:Choc-1U-Hotswap" (at 340.36 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 340.36 278.13 0)
@@ -6523,7 +6523,7 @@
     (pin "1" (uuid 6d777ed0-a46f-44ae-a64b-a3dd022b74d4))
     (pin "2" (uuid ed94b620-81b9-4580-ba4d-bd5b99a39ffc))
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b"
           (reference "SW52") (unit 1)
         )
@@ -6535,10 +6535,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 035f2c50-8b57-4ef2-9ef7-14a46a94e9bc)
-    (property "Sheetname" "Six SK6812Mini-E12" (at 429.26 283.7684 0)
+    (property "Sheetname" "LEDs Row R4" (at 429.26 283.7684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 293.4466 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 293.9546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 429.26 289.56 180)
@@ -6550,7 +6550,7 @@
       (uuid 490c8d88-4f6c-4842-a6b5-72b93652b889)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "13"))
       )
     )
@@ -6560,10 +6560,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 2511670c-4cda-472b-af31-5a4caab39411)
-    (property "Sheetname" "Six SK6812Mini-E4" (at 459.74 156.7684 0)
+    (property "Sheetname" "LEDs Row L5" (at 459.74 156.7684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 166.4466 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 166.9546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 459.74 162.56 180)
@@ -6575,7 +6575,7 @@
       (uuid fe5cf929-2b4a-4ef0-8967-acf1e2ae5ec5)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "7"))
       )
     )
@@ -6585,10 +6585,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 45efd09c-13b0-45bb-b3a8-1e84cf282625)
-    (property "Sheetname" "Six SK6812Mini-E1" (at 459.74 108.5084 0)
+    (property "Sheetname" "LEDs Row L2" (at 459.74 108.5084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 118.1866 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 118.6946 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 459.74 114.3 180)
@@ -6600,7 +6600,7 @@
       (uuid da8969c5-b44f-49d8-bcbe-2c760eae2fee)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "4"))
       )
     )
@@ -6610,10 +6610,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 4c57dd2e-ba9d-4920-a7b0-d41c3d5d5f4a)
-    (property "Sheetname" "Four SK6812Mini-E10" (at 481.33 316.7884 0)
+    (property "Sheetname" "Backlight R4" (at 481.33 316.7884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Four-SK6812Mini-E.kicad_sch" (at 481.33 326.4666 0)
+    (property "Sheetfile" "Five-SK6812Mini-E.kicad_sch" (at 481.33 326.9746 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 481.33 322.58 180)
@@ -6625,7 +6625,7 @@
       (uuid a9a541d8-cf48-42f5-916a-156613755af5)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "20"))
       )
     )
@@ -6635,10 +6635,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 4f000bf6-954a-4633-b617-aec2917c52c6)
-    (property "Sheetname" "Six SK6812Mini-E6" (at 401.32 126.2884 0)
+    (property "Sheetname" "Backlight L2" (at 401.32 126.2884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 401.32 135.9666 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 401.32 136.4746 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 401.32 132.08 180)
@@ -6650,7 +6650,7 @@
       (uuid 17901428-c8f2-4653-b0d7-c7742a201268)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "9"))
       )
     )
@@ -6660,10 +6660,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 583c56bf-5e61-4e86-ba8b-6755e2d91abb)
-    (property "Sheetname" "Six SK6812Mini-E16" (at 481.33 268.5284 0)
+    (property "Sheetname" "Backlight R1" (at 481.33 268.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 481.33 278.2066 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 481.33 277.4446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 481.33 273.05 180)
@@ -6675,7 +6675,7 @@
       (uuid 0e4e7bf1-f55e-4e8d-b2d4-4665d4db748b)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "17"))
       )
     )
@@ -6685,10 +6685,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 5955baa2-8f4a-48d3-bd5f-ac9f71700d66)
-    (property "Sheetname" "Six SK6812Mini-E3" (at 459.74 141.5284 0)
+    (property "Sheetname" "LEDs Row L4" (at 459.74 141.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 151.2066 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 150.4446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 459.74 146.05 180)
@@ -6700,7 +6700,7 @@
       (uuid 9f03fcc3-ed09-4ab2-b37f-175d616b2a1d)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "6"))
       )
     )
@@ -6710,10 +6710,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 7c0c26be-3210-412c-9429-3efd732ff732)
-    (property "Sheetname" "Six SK6812Mini-E5" (at 401.32 111.0484 0)
+    (property "Sheetname" "Backlight L1" (at 401.32 111.0484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 401.32 120.7266 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 401.32 119.9646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 401.32 115.57 180)
@@ -6725,7 +6725,7 @@
       (uuid 444cdb8f-ea51-423a-8a0f-cba7203735be)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "8"))
       )
     )
@@ -6735,10 +6735,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 8d50533b-7563-4330-b8c2-defda0ddcdc6)
-    (property "Sheetname" "Six SK6812Mini-E" (at 459.74 91.9984 0)
+    (property "Sheetname" "LEDs Row L1" (at 459.74 91.9984 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 101.6766 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 102.1846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 459.74 97.79 180)
@@ -6750,7 +6750,7 @@
       (uuid adc0220b-ed03-44d2-84be-d3b93021bcb2)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "3"))
       )
     )
@@ -6760,10 +6760,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 94934d19-00f6-4bf7-9430-ce1fa09db4b0)
-    (property "Sheetname" "Six SK6812Mini-E2" (at 459.74 125.0184 0)
+    (property "Sheetname" "LEDs Row L3" (at 459.74 125.0184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 134.6966 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 459.74 135.2046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 459.74 130.81 180)
@@ -6775,7 +6775,7 @@
       (uuid e63295a1-0dd8-4415-9b7e-f4740b2cfe1c)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "5"))
       )
     )
@@ -6785,10 +6785,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid a99cd1be-1fe0-4ec3-b946-9305b4a59401)
-    (property "Sheetname" "Six SK6812Mini-E7" (at 401.32 144.0684 0)
+    (property "Sheetname" "Backlight L3" (at 401.32 144.0684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 401.32 153.7466 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 401.32 152.9846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 401.32 148.59 180)
@@ -6800,7 +6800,7 @@
       (uuid 90400b28-e476-42f6-ad1a-3aca9fce3695)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "10"))
       )
     )
@@ -6810,10 +6810,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid b2074d1e-9286-43d7-9e1d-b43f613d42ed)
-    (property "Sheetname" "Six SK6812Mini-E14" (at 429.26 316.7884 0)
+    (property "Sheetname" "LEDs Row R2" (at 429.26 316.7884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 326.4666 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 325.7046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 429.26 321.31 180)
@@ -6825,7 +6825,7 @@
       (uuid 4d317e40-b63f-4287-9308-33e133f52afa)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "15"))
       )
     )
@@ -6835,10 +6835,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid b21a5e6f-0327-4fec-afb2-ffed8575ba8a)
-    (property "Sheetname" "Six SK6812Mini-E17" (at 481.33 283.7684 0)
+    (property "Sheetname" "Backlight R2" (at 481.33 283.7684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 481.33 293.4466 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 481.33 293.9546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 481.33 289.56 180)
@@ -6850,7 +6850,7 @@
       (uuid bf5eb7b0-0a5f-4b35-bbf8-4a5901a63d10)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "18"))
       )
     )
@@ -6987,7 +6987,7 @@
       (uuid 19e786a3-d6c9-4cd2-b358-22a4115aab0f)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "2"))
       )
     )
@@ -6997,10 +6997,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid c85fccfd-ced0-4fb1-bb8c-1cfb2300b017)
-    (property "Sheetname" "Six SK6812Mini-E13" (at 429.26 300.2784 0)
+    (property "Sheetname" "LEDs Row R3" (at 429.26 300.2784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 309.9566 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 310.4646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 429.26 306.07 180)
@@ -7012,7 +7012,7 @@
       (uuid b7e4eb4b-434e-4112-9095-95b4f6f17f16)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "14"))
       )
     )
@@ -7022,10 +7022,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid db99b11d-9b50-4f54-b8ef-d7a9df195163)
-    (property "Sheetname" "Six SK6812Mini-E11" (at 429.26 267.2584 0)
+    (property "Sheetname" "LEDs Row R5" (at 429.26 267.2584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 276.9366 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 277.4446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 429.26 273.05 180)
@@ -7037,7 +7037,7 @@
       (uuid b9ce1047-e875-4fda-a87c-3e1ac2cfc95d)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "12"))
       )
     )
@@ -7047,10 +7047,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid de743d67-c1f2-4b03-b35a-3f0fd7f4a0ff)
-    (property "Sheetname" "Four SK6812Mini-E8" (at 401.32 159.3084 0)
+    (property "Sheetname" "Backlight L4" (at 401.32 159.3084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Four-SK6812Mini-E.kicad_sch" (at 401.32 168.9866 0)
+    (property "Sheetfile" "Five-SK6812Mini-E.kicad_sch" (at 401.32 169.4946 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 401.32 165.1 180)
@@ -7062,7 +7062,7 @@
       (uuid 02b99654-6890-4fa5-96ac-d369cc87b887)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "11"))
       )
     )
@@ -7072,10 +7072,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid e2ef36e5-4c68-4191-bd63-5023cc0900f5)
-    (property "Sheetname" "Six SK6812Mini-E15" (at 429.26 332.0284 0)
+    (property "Sheetname" "LEDs Row R1" (at 429.26 332.0284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 341.7066 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 429.26 342.2146 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 429.26 337.82 180)
@@ -7087,7 +7087,7 @@
       (uuid 48a656c9-7bc5-4a34-8ff7-31ec201bbb81)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "16"))
       )
     )
@@ -7097,10 +7097,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid f0e2aa55-c5ae-43a0-87c1-a63ae8c29cea)
-    (property "Sheetname" "Six SK6812Mini-E9" (at 481.33 301.5484 0)
+    (property "Sheetname" "Backlight R3" (at 481.33 301.5484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 481.33 311.2266 0)
+    (property "Sheetfile" "Six-SK6812Mini-E.kicad_sch" (at 481.33 310.4646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "DIN" input (at 481.33 306.07 180)
@@ -7112,7 +7112,7 @@
       (uuid 00588ea5-1f18-46a3-8dc0-b17c46a8fef9)
     )
     (instances
-      (project "simplyKeeb-60K"
+      (project "simplyKeeb-S60c"
         (path "/3ef7093d-56c4-42ac-a29c-e335ba172a8b" (page "19"))
       )
     )
