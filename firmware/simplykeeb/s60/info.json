@@ -3,7 +3,6 @@
     "keyboard_name": "simplykeeb s60",
     "maintainer": "Geaz",
     "bootloader": "rp2040",
-    "debounce": 7,
     "features": {
         "bootmagic": true,
         "command": false,
