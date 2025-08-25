@@ -6,17 +6,11 @@ do
     break
 done
 
-echo "Init submodules"
-git submodule init
-git submodule update 
-cd vial-qmk
-make git-submodule &> /dev/null
-
 echo "Clearing old files"
-rm -r ../keyboards/simplykeeb &> /dev/null
+rm -r ~/qmk_firmware/keyboards/simplykeeb &> /dev/null
 
 echo "Copy folders"
-cp -a ../simplykeeb keyboards
+cp -a simplykeeb ~/qmk_firmware/keyboards
 
 echo "Building firmwares"
-make "simplykeeb/${keeb}:default"
+qmk compile -kb simplykeeb/$keeb -km default

@@ -40,7 +40,7 @@ matrix_row_t read_row_right(matrix_row_t last_row_value, matrix_row_t current_ro
     return current_row_value;
 }
 
-void matrix_init(void) {
+void matrix_init_custom(void) {
     pca9555_init(RIGHT_HALF);
 
     // Init PCA9555 Pins
