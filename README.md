@@ -29,3 +29,7 @@ Please be aware, that the shortcuts on the keys are *Windows Shortcuts*. Many of
 ## Firmware
 
 To build the firmware, make sure you have a valid QMK firmware tool chain. Then execute the build.sh script in the firmware folder (the script expects the qmk at ~/qmk-firmware).
+
+## Credits
+
+I used some of the great footprints from the [Keyswitch Kicad Library](https://github.com/kiswitch/kiswitch) and from [ai03](https://github.com/ai03-2725/MX_Alps_Hybrid).
