@@ -1,7 +1,9 @@
 #pragma once
 
 // I2C Configuration for the RP2040
-#define I2C_DRIVER I2CD1
+// QMK Implementation does not allow definition of I2C0 PINS!
+// Always taking the I2C1 pins, regardlesss of used driver...
+#define I2C_DRIVER I2CD0
 #define I2C1_SDA_PIN GP0
 #define I2C1_SCL_PIN GP1
 

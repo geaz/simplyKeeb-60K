@@ -25,3 +25,7 @@ The following variants are available at the moment:
 ![Lower](images/lower.png)
 
 Please be aware, that the shortcuts on the keys are *Windows Shortcuts*. Many of them won't work on Linux or Mac OS.
+
+## Firmware
+
+To build the firmware, make sure you have a valid QMK firmware tool chain. Then execute the build.sh script in the firmware folder (the script expects the qmk at ~/qmk-firmware).
